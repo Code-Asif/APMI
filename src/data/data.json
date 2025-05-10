@@ -1,0 +1,196 @@
+{
+  "Header": {
+    "title": "Paramedical And Health Care Education",
+    "paragraph": "Best Paramedical Institute which provides the best education in the field of Paramedical and Health Care. Where you can learn and grow your career in the field of Paramedical and Health Care."
+  },
+  "About": {
+    "paragraph": "The purpose of the college is to provide high-quality education and training in the field of Paramedical and Health Care, preparing students for successful careers in this vital industry.",
+    "Why": [
+      "Skilled Instructors",
+      "Hands-on Training",
+      "State-of-the-art Facilities",
+      "Industry Partnerships",
+      "Job Placement Assistance"
+    ],
+    "Why2": [
+      "Flexible Scheduling",
+      "Affordable Tuition",
+      "Comprehensive Curriculum",
+      "Supportive Learning Environment",
+      "Continuing Education Opportunities"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-support",
+      "name": "Diploma in Radiology Technology",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of radiology. The course covers topics such as anatomy, physiology, radiographic techniques, and patient care."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "name": "Diploma in Operation Theatre Technology ",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of operation theatre technology. The course covers topics such as surgical procedures, anaesthesia, and patient care."
+    },
+    {
+      "icon": "fa fa-book",
+      "name": "Diploma in Medical Lab Technology",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of medical laboratory technology. The course covers topics such as laboratory procedures, diagnostic testing, and patient care."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Diploma in Dialysis Technician",
+      "text": "Its a 2-year diploma course that provides students with the knowledge and skills needed to work in the field of dialysis technology. The course covers topics such as renal physiology, dialysis procedures, and patient care."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Bachelor’s in Radiology Technology",
+      "text": "Its a 4-year degree program that provides students with the knowledge and skills needed to work in the field of radiology. The program covers topics such as anatomy, physiology, radiographic techniques, and patient care."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Bachelor’s in Operation Theatre Technology",
+      "text": "Its a 4-year degree program that provides students with the knowledge and skills needed to work in the field of operation theatre technology. The program covers topics such as surgical procedures, anaesthesia, and patient care."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Bachelor’s in Medical Lab Technology",
+      "text": "Its a 4-year degree program that provides students with the knowledge and skills needed to work in the field of medical laboratory technology. The program covers topics such as laboratory procedures, diagnostic testing, and patient care."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Certificate in Medical Dresser",
+      "text": "Its a 6-month certificate course that provides students with the knowledge and skills needed to work as a medical dresser. The course covers topics such as wound care, dressing techniques, and patient care."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Anjanpir Chowk Hajipur, Bihar",
+    "phone": "+91 7485060789",
+    "email": "support@apmiindia.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-book",
+      "title": "Free Computer Course",
+      "text": "We offer free computer courses for students who are interested in learning more about technology and its applications."
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "Highly Professional Staff",
+      "text": "Our staff is highly professional and experienced in their respective fields, ensuring that students receive the best education possible."
+    },
+    {
+      "icon": "fa fa-money",
+      "title": "Affordable fees",
+      "text": "We offer affordable fees for our courses, making it accessible for everyone to pursue their education."
+    },
+    {
+      "icon": "fa fa-support",
+      "title": "Placement Assistance",
+      "text": "We provide placement assistance to our students, helping them secure internships and job opportunities in their field."
+    }
+  ]
+}
