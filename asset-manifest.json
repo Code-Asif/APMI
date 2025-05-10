@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/APMI/static/css/main.ae42ac5f.css",
+    "main.js": "/APMI/static/js/main.56a50247.js",
+    "static/media/APMI.png": "/APMI/static/media/APMI.9485ba5b147e99f23375.png",
+    "index.html": "/APMI/index.html",
+    "main.ae42ac5f.css.map": "/APMI/static/css/main.ae42ac5f.css.map",
+    "main.56a50247.js.map": "/APMI/static/js/main.56a50247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.56a50247.js"
+  ]
+}
