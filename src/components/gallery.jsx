@@ -8,8 +8,7 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Take a look at our gallery to see the amazing moments captured during our events and activities. We believe in creating memories that last a lifetime, and our gallery showcases the vibrant spirit of our community.
           </p>
         </div>
         <div className="row">
@@ -23,7 +22,7 @@ export const Gallery = (props) => {
                     <Image
                       title={d.title}
                       largeImage={d.largeImage}
-                      smallImage={d.smallImage}
+                      smallImage={d.largeImage}
                     />
                   </div>
                 ))

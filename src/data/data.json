@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "Paramedical And Health Care Education",
+    "title": "Avicenna Paramedical & Management Institute",
     "paragraph": "Best Paramedical Institute which provides the best education in the field of Paramedical and Health Care. Where you can learn and grow your career in the field of Paramedical and Health Care."
   },
   "About": {
@@ -22,49 +22,80 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Campus & Training",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
+    },
+    {
+      "title": "Campus & Training",
+      "largeImage": "img/portfolio/10-large.jpg",
+      "smallImage": "img/portfolio/10-small.jpg"
+    },
+    {
+      "title": "Campus & Training",
+      "largeImage": "img/portfolio/11-large.jpg",
+      "smallImage": "img/portfolio/11-small.jpg"
+    },
+    {
+      "title": "Campus & Training",
+      "largeImage": "img/portfolio/12-large.jpg",
+      "smallImage": "img/portfolio/12-small.jpg"
+    },
+    {
+      "title": "Campus & Training",
+      "largeImage": "img/portfolio/13-large.jpg",
+      "smallImage": "img/portfolio/13-small.jpg"
+    }
+  ],
+  "Placement": [
+    {
+      "img": "img/placements/01-cam.jpg"
+    },
+    {
+      "img": "img/placements/02-cam.jpg"
+    },
+    {
+      "img": "img/placements/03-cam.jpg"
     }
   ],
   "Services": [
@@ -144,23 +175,23 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Amjad Ali",
+      "job": "Radiologist"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Asif Alam",
+      "job": "orthopedist"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Md Sajid",
+      "job": "Lab Technician"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Kasif Imam",
+      "job": "Dialysis Expert"
     }
   ],
   "Contact": {
@@ -192,5 +223,26 @@
       "title": "Placement Assistance",
       "text": "We provide placement assistance to our students, helping them secure internships and job opportunities in their field."
     }
-  ]
+  ],
+  "trainingVideos": [
+    {
+      "title": "React Basics",
+      "url": "https://www.youtube.com/embed/dGcsHMXbSOA",
+      "description": "Learn the fundamentals of React in this introductory video."
+    },
+    {
+      "title": "Bootstrap Tutorial",
+      "url": "https://www.youtube.com/embed/-qfEOE4vtxE",
+      "description": "Master responsive design with Bootstrap."
+    },
+    {
+      "title": "Responsive Design",
+      "url": "https://www.youtube.com/embed/srvUrASNj0s",
+      "description": "Make your websites look great on all devices."
+    }
+  ],
+  "homepage":{
+    "url": "https://code-asif.github.io/APMI/"
+  }
 }
+

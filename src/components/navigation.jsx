@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/APMI.png";
+import Logo from "../assets/APMI.jpg";
 
 export const Navigation = (props) => {
   return (
@@ -48,11 +48,6 @@ export const Navigation = (props) => {
             <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                Admission
               </a>
             </li>
             <li>
