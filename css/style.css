@@ -232,8 +232,8 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color: #fff;
-  font-size: 22px;
+  color: #3a463a;
+  font-size: 22px;  
   font-weight: 300;
   line-height: 30px;
   margin: 0 auto;
@@ -241,12 +241,13 @@ a:focus,
 }
 header .intro-text {
   padding-top: 350px;
-  padding-bottom: 200px;
+  padding-bottom: 400px;
   text-align: center;
 }
 /* Features Section */
 #features {
   background: #f6f6f6;
+  margin-top: 40px;
 }
 #features i.fa {
   font-size: 38px;
