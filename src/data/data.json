@@ -175,23 +175,13 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "Amjad Ali",
-      "job": "Radiologist"
+      "name": "Md Intakhab",
+      "job": "Principal, APMI"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Asif Alam",
-      "job": "orthopedist"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Md Sajid",
-      "job": "Lab Technician"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Kasif Imam",
-      "job": "Dialysis Expert"
+      "name": "Md Shahjahan",
+      "job": "BMLT"
     }
   ],
   "Contact": {
