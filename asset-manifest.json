@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/APMI/static/css/main.a9ea63ae.css",
-    "main.js": "/APMI/static/js/main.96ac4bda.js",
+    "main.js": "/APMI/static/js/main.bd632367.js",
     "static/media/APMI.jpg": "/APMI/static/media/APMI.cdd00fa09007b5d6b48c.jpg",
     "index.html": "/APMI/index.html",
     "main.a9ea63ae.css.map": "/APMI/static/css/main.a9ea63ae.css.map",
-    "main.96ac4bda.js.map": "/APMI/static/js/main.96ac4bda.js.map"
+    "main.bd632367.js.map": "/APMI/static/js/main.bd632367.js.map"
   },
   "entrypoints": [
     "static/css/main.a9ea63ae.css",
-    "static/js/main.96ac4bda.js"
+    "static/js/main.bd632367.js"
   ]
 }
