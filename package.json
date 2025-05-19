@@ -1,6 +1,6 @@
 {
   "name": "apmi",
-  "homepage": "https://code-asif.github.io/APMI/", 
+  "homepage": "https://www.apmiindia.com", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
