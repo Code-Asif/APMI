@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/APMI/static/css/main.a9ea63ae.css",
-    "main.js": "/APMI/static/js/main.bd632367.js",
-    "static/media/APMI.jpg": "/APMI/static/media/APMI.cdd00fa09007b5d6b48c.jpg",
-    "index.html": "/APMI/index.html",
-    "main.a9ea63ae.css.map": "/APMI/static/css/main.a9ea63ae.css.map",
-    "main.bd632367.js.map": "/APMI/static/js/main.bd632367.js.map"
+    "main.css": "/static/css/main.a9ea63ae.css",
+    "main.js": "/static/js/main.bd235cde.js",
+    "static/media/APMI.jpg": "/static/media/APMI.cdd00fa09007b5d6b48c.jpg",
+    "index.html": "/index.html",
+    "main.a9ea63ae.css.map": "/static/css/main.a9ea63ae.css.map",
+    "main.bd235cde.js.map": "/static/js/main.bd235cde.js.map"
   },
   "entrypoints": [
     "static/css/main.a9ea63ae.css",
-    "static/js/main.bd632367.js"
+    "static/js/main.bd235cde.js"
   ]
 }
